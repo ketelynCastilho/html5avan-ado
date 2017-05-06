@@ -1,0 +1,50 @@
+#logo{
+  width: 150px;
+
+}
+
+#listamenu{
+  list-style: none;
+  display:inline-table;
+  position: relative;
+  bottom: -6px;
+}
+
+.limenu{
+  float: left;
+  margin-left: 20px;
+  font-size: 25px;
+  font-family:serif;
+}
+
+#hearder{
+  background-color: grey;
+}
+
+fieldset{
+  border: 1px solid black;
+}
+#nome{
+font-family: sans-serif;
+border: 1px solid black;
+}
+
+#endereco{
+font-family: sans-serif;
+border: 1px solid black;
+}
+
+#data{
+font-family: sans-serif;
+border: 1px solid black;
+}
+
+#email{
+font-family: sans-serif;
+border: 1px solid black;
+}
+
+#sexo{
+font-family: sans-serif;
+border: 1px solid black;
+}
